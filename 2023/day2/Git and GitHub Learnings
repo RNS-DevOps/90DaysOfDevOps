@@ -1,0 +1,22 @@
+Today i learn about Git(Tool) and GitHub(Service/Platform)
+
+Source Code Management:
+CVCS,DVCS,Local Version Control System
+
+Stages of Git / Workflow:
+Repository,Server,Working Directory/WorkSpace,Commit,Commit-ID,Tags,Snapshots,Push,Pull,Branch.
+
+Advantages of Git
+
+Types of Repository
+Central Repository (Bare)
+Local Repository (Non-Bare)
+
+How to commit,push,pull,ignore from github
+
+How to create Branch,Merge,Stash
+
+How to do Git Reset,Git Revert,Tag,Github Clone
+
+
+Reference: https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10
